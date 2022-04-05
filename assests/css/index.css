@@ -1,0 +1,24 @@
+    .main-header{
+        height: 80px;
+        z-index: 100;
+    }
+    .logo-img{
+        /* width: 50px; */
+        height: 70px;
+    }
+    .header-nav .nav-item .nav-link{ 
+        color:#fff;
+        font-size: 25px;
+        font-weight: 550;
+        font-family: monospace;
+    }
+    #main-leyout{
+        height: 720px;
+        background-image: url(/assests/images/main-banner-2-1903x751.jpg);
+        background-repeat: no-repeat;
+        /* background-attachment: fixed; */
+        /* background-size: cover; */
+    }
+    .margin-x-n1{
+        margin:0px -12px;
+    }
