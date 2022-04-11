@@ -14,11 +14,9 @@
     }
     #main-leyout{
         height: 720px;
-        background-image: url(/assests/images/main-banner-2-1903x751.jpg);
+        width: 100%;
         background-repeat: no-repeat;
         /* background-attachment: fixed; */
         /* background-size: cover; */
     }
-    .margin-x-n1{
-        margin:0px -12px;
-    }
+    
