@@ -39,3 +39,9 @@
     .form-control {
         box-shadow: none !important;
     }
+    #stylistSecton{
+        background-image: url("/assests/images/salon.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 700px;
+    }
