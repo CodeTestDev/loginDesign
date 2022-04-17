@@ -1,45 +1,53 @@
-    .main-header{
+    .main-header {
         height: 80px;
         z-index: 100;
     }
-    .logo-img{
+    
+    .logo-img {
         /* width: 50px; */
         height: 70px;
     }
-    .header-nav .nav-item .nav-link{ 
-        color:#fff;
+    
+    .header-nav .nav-item .nav-link {
+        color: #fff;
         font-size: 25px;
         font-weight: 550;
         font-family: monospace;
     }
-    #main-leyout{
+    
+    #main-leyout {
         height: 720px;
         width: 100%;
         background-repeat: no-repeat;
         /* background-attachment: fixed; */
-        /* background-size: cover; */
+        background-size: cover;
     }
-    .bottom-footer{
+    
+    .bottom-footer {
         height: 40px;
     }
+    
     .footer-icon-nav .nav-item a {
-        color:#fff;
+        color: #fff;
         font-size: 18px;
         text-decoration: none;
         /* font-weight: 550; */
     }
     
-    .contact-links{
+    .contact-links {
         font-size: 20px;
         font-weight: 600;
     }
+    
     .contact-links li {
         /* padding: 2px 0px; */
     }
+    
     .form-control {
         box-shadow: none !important;
     }
-    #stylistSecton{
+    
+    #stylistSecton {
         background-image: url("/assests/images/salon.jpg");
         background-repeat: no-repeat;
         background-size: cover;
